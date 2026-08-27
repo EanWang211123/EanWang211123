@@ -1,18 +1,18 @@
-## Hi, I'm Yiheng 👋
+<div align="center">
 
-**AI Infrastructure · Robotics · Edge Intelligence**
+# Hi, I'm Yiheng 👋
 
-I am currently focused on **high-performance LLM inference**, with interests spanning:
+### AI Infrastructure × Robotics × Edge Intelligence
 
-* Speculative decoding
-* GPU kernel and operator optimization
-* Inference scheduling and serving systems
-* Model quantization and pruning
-* vllm sgl committer
+</div>
 
-Beyond AI infrastructure, I also have hands-on experience in robotics and embedded systems, including:
+---
 
-* LeRobot
-* RoboMaster
-* Autonomous smart cars
-* AUTOSAR
+I work across the LLM inference stack—from decoding algorithms and GPU kernels to serving systems:
+
+`⚡ Speculative Decoding` · `🔥 GPU Kernel Optimization`
+`🧠 vllm sgl committer` · `📦 Quantization & Pruning`
+
+Before diving deep into AI infrastructure, I built things that move in the real world:
+
+`🤖 LeRobot` · `🏎️ RoboMaster` · `🚗 Autonomous Smart Cars` · `⚙️ AUTOSAR`
