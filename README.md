@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Yiheng 👋
 
-<!--
-**EanWang211123/EanWang211123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Infrastructure · Robotics · Edge Intelligence**
 
-Here are some ideas to get you started:
+I am currently focused on **high-performance LLM inference**, with interests spanning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Speculative decoding
+* GPU kernel and operator optimization
+* Inference scheduling and serving systems
+* Model quantization and pruning
+* vllm sgl committer
+
+Beyond AI infrastructure, I also have hands-on experience in robotics and embedded systems, including:
+
+* LeRobot
+* RoboMaster
+* Autonomous smart cars
+* AUTOSAR
