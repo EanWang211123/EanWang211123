@@ -8,7 +8,7 @@
 
 ---
 
-I work across the LLM inference stack—from decoding algorithms and GPU kernels to serving systems:
+I work across the LLM inference stack—from speculative decoding algorithms and GPU kernels to serving systems:
 
 `⚡ Speculative Decoding` · `🔥 GPU Kernel Optimization`
 `🧠 vllm sgl contributor` · `📦 Quantization & Pruning`
