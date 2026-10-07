@@ -15,4 +15,4 @@ I work across the LLM inference stack—from speculative decoding algorithms and
 
 Before diving deep into AI infrastructure, I built things that move in the real world:
 
-`🤖 LeRobot` · `🏎️ RoboMaster` · `🚗 Autonomous Smart Cars` · `⚙️ AUTOSAR`
+`🤖 LeRobot` · `🏎️ RoboMaster` · `⚙️ AUTOSAR`
